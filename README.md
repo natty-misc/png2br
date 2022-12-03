@@ -3,6 +3,17 @@
 
 Works on Windows (good luck installing libav) and Linux.
 
+No sound (never got to implement it).
+
+There are some configuration defines in `avtest.cpp`,
+feel free to play with the values. 
+
+Three thresholding algorithms are implemented:
+
+* Binary thresholding
+* Ordered dithering
+* Floydova–Steinberg dithering
+
 ## Requirements
 
 * A C++20 capable compiler
