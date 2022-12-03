@@ -1,5 +1,7 @@
 # png2br
-2-in-1 PNG to ASCII art converter and ASCII video player
+2-in-1 PNG to ASCII art converter and ASCII video player.
+
+Works on Windows (good luck installing libav) and Linux.
 
 ## Requirements
 
