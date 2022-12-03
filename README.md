@@ -4,6 +4,7 @@
 ## Requirements
 
 * A C++20 capable compiler
+* pkg-config
 * libavcodec
 * libavutil
 * libswscale
