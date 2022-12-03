@@ -12,7 +12,7 @@ Three thresholding algorithms are implemented:
 
 * Binary thresholding
 * Ordered dithering
-* Floydova–Steinberg dithering
+* Floyd–Steinberg dithering
 
 ## Requirements
 
