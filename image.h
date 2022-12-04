@@ -1,5 +1,5 @@
 //
-// Created by michal on 05.09.20.
+// Created by Natty on 05.09.20.
 //
 
 #ifndef PNG2BR_IMAGE_H
